@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/Users/jonesa/Github/Pharmacy/digoxin/digoxin.py",
+            "args": ["50", "male", "110", "1.5", "70"]
+        }
+    ]
+}
